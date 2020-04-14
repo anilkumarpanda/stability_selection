@@ -14,13 +14,11 @@ Wrapper methods have a higher chance of overfitting compared to emebedded and fi
 
 To balance out the pros and cons a combined approach can be followed as shown below:
 
-<img src="feature_selection.png"
-     alt="Feature Selection"
-     style="float: left; margin-right: 10px;" />
+<img src="images/feature_selection.png" alt="Feature Selection" style="float: left; margin-right: 10px;" />
      
 The main points to take into consideration are :
 
 1. Feature selection should be done in consultation with the business experts.They have insights into the buisness problem and can guide in eliminating some features right away e.g some feature which are very unstable,or in the case of co-related feature which features to eliminate etc.
 
-2. Bootstrapped sampling strategy can be used for feature selection, as feature which are important in the entire dataset will be important in the sampled data as well.
+2. Bootstrapped sampling strategy can be used for feature selection, as features which are important in the entire dataset will be important in the sampled data as well.
 
