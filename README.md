@@ -21,3 +21,5 @@ Comarison of Stability Selection methods with other Feature selection(FS) method
 | Mlxtend SFS(Floating)       | 0.669     | 0.635  | 0.033 |
 | SHAP                        | 0.709     | 0.629  | 0.080 |
 | FS combined                 | 0.671     | 0.636  | 0.035 |
+
+Some additional thoughts and best practises about feature selection can be found [here](https://github.com/anilkumarpanda/stability_selection/blob/master/Thoughts%20on%20Feature%20Selection.md)
